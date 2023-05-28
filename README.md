@@ -3,7 +3,7 @@
 1) Скачать данные с репозитория:
 
 ```bash
-git clone 
+git clone https://github.com/KAD1029/DiffusionDet.git
 ```
 
 2) Скачать предобученную модель [по ссылке](https://github.com/ShoufaChen/DiffusionDet/releases/download/v0.1/diffdet_coco_res50_300boxes.pth)  разместить файл в корне репозитория
